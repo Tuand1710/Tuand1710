@@ -9,5 +9,4 @@
 <!---
 Tuand1710/Tuand1710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-\\smc001\tec074\コネクテッド\010_PJ\050_サービス_システム運営\050_BDPF\02_アプリ保守運用\30_SMC-FPT共有
+
